@@ -178,6 +178,5 @@
     "PROGRAMNAME_ALREADY_EXIST":"ProgramName already exist",
     "CARD_ALREADY_ACTIVATED":"Card already Activated",
     "NOT_GLACCOUNT":"Invalid GL Account",
-    "NOT_FOUND_VENDERACCOUNT":"VenderAccount not found",
-    "EXTERNAL_ACCOUNT_ALREADY_LINKED" : "ExternalAccount already linked"
+    "NOT_FOUND_VENDERACCOUNT":"VenderAccount not found"
 }
