@@ -179,6 +179,5 @@
     "CARD_ALREADY_ACTIVATED":"Card already Activated",
     "NOT_GLACCOUNT":"Invalid GL Account",
     "NOT_FOUND_VENDERACCOUNT":"VenderAccount not found",
-    "EXTERNAL_ACCOUNT_ALREADY_LINKED" : "ExternalAccount already linked",
-    "EXTERNAL_ACCOUNT_NOT_FOUND" : "ExternalAccount not found"
+    "EXTERNAL_ACCOUNT_ALREADY_LINKED" : "ExternalAccount already linked"
 }
